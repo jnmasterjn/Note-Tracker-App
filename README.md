@@ -9,7 +9,7 @@ This is my first project, written using **Django**. I use this app to track my d
 
 ## Features
 
-- **Authentication** basic login logout function
+- **Authenticate** user with login logout function using Django's built-in authentication system (session-based authentication)
 - **Create** new diary entries
 - **Read** and review past entries
 - **Update** existing entries
@@ -19,7 +19,7 @@ This is my first project, written using **Django**. I use this app to track my d
 ## Technologies Used
 
 - **Backend**: Python, Django, SQLite
-- **Frontend**: JavaScript, CSS
+- **Frontend**: JavaScript, CSS, html
 
 ## License
 
